@@ -1,0 +1,2 @@
+- Hello, I am @Hallowate
+- I specialize in 3D Modeling and C# Programming.
